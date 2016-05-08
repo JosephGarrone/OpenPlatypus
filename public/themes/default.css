@@ -288,3 +288,6 @@ table.stickyHeaders th {
 	overflow: auto;
 }
 
+.cke_dialog_background_cover {
+	opacity: 0 !important;
+}
